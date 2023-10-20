@@ -8,8 +8,7 @@ Competitors, and Easy Apply availability.
 
 # Data Exploration
 a. Size and missing values
-The size of the data was 15 (length) x 4092 (row) with a total of 10584 missing
-values.
+The size of the data was 15 (length) x 4092 (row) with a total of 10584 missing values.
 
 b. Unique Values
 Show unique values to find patterns and categories for Salary Estimate, Type of ownership, Industry, Sector, Size, and Revenue.
